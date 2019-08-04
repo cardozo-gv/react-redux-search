@@ -2,6 +2,11 @@
 
 https://cardozo-gv.github.io/react-redux-search/
 
+<br/> <br/>
+Tutorial: React Redux <br/>
+Youtube Channel : Leo Medina
+url: https://www.youtube.com/watch?v=OXWn4XiDUmw&t=96s
+
 
 <br/> <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
