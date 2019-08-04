@@ -4,7 +4,7 @@ https://cardozo-gv.github.io/react-redux-search/
 
 <br/> <br/>
 Tutorial: React Redux <br/>
-Youtube Channel : Leo Medina
+Youtube Channel : Leo Medina <br/>
 url: https://www.youtube.com/watch?v=OXWn4XiDUmw&t=96s
 
 
